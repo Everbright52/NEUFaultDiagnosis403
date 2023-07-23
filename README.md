@@ -10,7 +10,7 @@ Innovative bearing fault diagnosis using SST algorithm for time-frequency images
         <p>STFT</p>
     </div>
     <div style="flex:1; text-align:center;">
-        <img src="readme_pic/STFT.png" alt="图片3描述" width="300">
+        <img src="readme_pic/SST.png" alt="图片3描述" width="300">
         <p>SST</p>
     </div>
 </div>

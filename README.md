@@ -11,3 +11,9 @@ Innovative bearing fault diagnosis using SST algorithm for time-frequency images
     <img src="readme_pic/3tsne.png" alt="图片1描述" width="900">
     <p>The T-SNE feature maps corresponding to the three transformation methods</p>
 </div>
+
+<div style="flex:1; text-align:center;">
+    <img src="readme_pic/三个信号处理方法在CA_CNN_2的对比.png.png" alt="图片1描述" width="900">
+    <p>Fourteen fold accuracy of three transformation methods under DeepViT model</p>
+</div>
+

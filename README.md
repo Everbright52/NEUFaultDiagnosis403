@@ -13,7 +13,7 @@ Innovative bearing fault diagnosis using SST algorithm for time-frequency images
 </div>
 
 <div style="flex:1; text-align:center;">
-    <img src="readme_pic/三个信号处理方法在CA_CNN_2的对比.png.png" alt="图片1描述" width="900">
+    <img src="readme_pic/三个信号处理方法在CA_CNN_2的对比.png" alt="图片1描述" width="900">
     <p>Fourteen fold accuracy of three transformation methods under DeepViT model</p>
 </div>
 

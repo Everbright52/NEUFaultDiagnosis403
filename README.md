@@ -3,11 +3,11 @@ Innovative bearing fault diagnosis using SST algorithm for time-frequency images
 
 
 <div style="flex:1; text-align:center;">
-    <img src="readme_pic/3methods.png" alt="图片1描述" width="300">
+    <img src="readme_pic/3methods.png" alt="图片1描述" width="900">
     <p>Time-frequency images corresponding to the three transformation methods</p>
 </div>
 
 <div style="flex:1; text-align:center;">
-    <img src="readme_pic/3tsne.png" alt="图片1描述" width="300">
+    <img src="readme_pic/3tsne.png" alt="图片1描述" width="900">
     <p>The T-SNE feature maps corresponding to the three transformation methods</p>
 </div>
